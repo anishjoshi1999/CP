@@ -1,0 +1,15 @@
+C:\Users\anish\Desktop\CP\CodeChef\bin\Debug\net6.0\CodeChef.exe
+C:\Users\anish\Desktop\CP\CodeChef\bin\Debug\net6.0\CodeChef.deps.json
+C:\Users\anish\Desktop\CP\CodeChef\bin\Debug\net6.0\CodeChef.runtimeconfig.json
+C:\Users\anish\Desktop\CP\CodeChef\bin\Debug\net6.0\CodeChef.dll
+C:\Users\anish\Desktop\CP\CodeChef\bin\Debug\net6.0\CodeChef.pdb
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\CodeChef.csproj.AssemblyReference.cache
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\CodeChef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\CodeChef.AssemblyInfoInputs.cache
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\CodeChef.AssemblyInfo.cs
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\CodeChef.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\CodeChef.dll
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\refint\CodeChef.dll
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\CodeChef.pdb
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\CodeChef.genruntimeconfig.cache
+C:\Users\anish\Desktop\CP\CodeChef\obj\Debug\net6.0\ref\CodeChef.dll
