@@ -1,0 +1,15 @@
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\bin\Debug\net6.0\CP.exe
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\bin\Debug\net6.0\CP.deps.json
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\bin\Debug\net6.0\CP.runtimeconfig.json
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\bin\Debug\net6.0\CP.dll
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\bin\Debug\net6.0\CP.pdb
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\CP.csproj.AssemblyReference.cache
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\CP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\CP.AssemblyInfoInputs.cache
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\CP.AssemblyInfo.cs
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\CP.csproj.CoreCompileInputs.cache
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\CP.dll
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\refint\CP.dll
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\CP.pdb
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\CP.genruntimeconfig.cache
+C:\Users\AnishJoshi\OneDrive\Desktop\CP\CP\obj\Debug\net6.0\ref\CP.dll
