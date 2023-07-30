@@ -4,41 +4,48 @@ class Program
 {
     static void Main()
     {
-        int t, n, k;
-        t = int.Parse(Console.ReadLine());
+        int numTestCases, days, proteinPerDay;
+        numTestCases = int.Parse(Console.ReadLine());
 
-        while (t-- > 0)
+        while (numTestCases-- > 0)
         {
+            // Read the number of days (N) and the required protein per day (K)
             string[] nk = Console.ReadLine().Split();
-            n = int.Parse(nk[0]);
-            k = int.Parse(nk[1]);
+            days = int.Parse(nk[0]);
+            proteinPerDay = int.Parse(nk[1]);
 
-            int[] arr = new int[n];
-            string[] numbers = Console.ReadLine().Split();
-            for (int i = 0; i < n; i++)
+            // Read the protein amounts for each day into an array
+            int[] proteinAmounts = new int[days];
+            string[] proteinValues = Console.ReadLine().Split();
+            for (int i = 0; i < days; i++)
             {
-                arr[i] = int.Parse(numbers[i]);
+                proteinAmounts[i] = int.Parse(proteinValues[i]);
             }
 
-            int ex = 0, el = 0;
-            for (int i = 0; i < n; i++)
+            int extraProtein = 0, remainingProtein = 0;
+            for (int i = 0; i < days; i++)
             {
-                el += arr[i];
-                if (k > el)
+                // Add the protein bought in the morning to the total
+                remainingProtein += proteinAmounts[i];
+
+                // Check if Chef has enough protein for dinner
+                if (proteinPerDay > remainingProtein)
                 {
-                    ex = i + 1;
+                    extraProtein = i + 1; // The first day with insufficient protein
                     break;
                 }
-                el -= k;
+
+                // Deduct the protein eaten during dinner
+                remainingProtein -= proteinPerDay;
             }
 
-            if (ex == 0)
+            if (extraProtein == 0)
             {
-                Console.WriteLine("YES");
+                Console.WriteLine("YES"); // Chef has enough protein every day
             }
             else
             {
-                Console.WriteLine("NO " + ex);
+                Console.WriteLine("NO " + extraProtein); // Chef doesn't have enough protein from the 'extraProtein' day
             }
         }
     }
